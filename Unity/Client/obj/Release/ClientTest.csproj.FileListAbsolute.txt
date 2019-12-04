@@ -1,0 +1,10 @@
+C:\Users\Kristian.Kristian-PC\Documents\Karaoke Theme\Unity\ClientTest\bin\Release\ClientTest.exe.config
+C:\Users\Kristian.Kristian-PC\Documents\Karaoke Theme\Unity\ClientTest\bin\Release\ClientTest.exe
+C:\Users\Kristian.Kristian-PC\Documents\Karaoke Theme\Unity\ClientTest\bin\Release\ClientTest.pdb
+C:\Users\Kristian.Kristian-PC\Documents\Karaoke Theme\Unity\ClientTest\obj\Release\ClientTest.csprojAssemblyReference.cache
+C:\Users\Kristian.Kristian-PC\Documents\Karaoke Theme\Unity\ClientTest\obj\Release\ClientTest.csproj.CoreCompileInputs.cache
+C:\Users\Kristian.Kristian-PC\Documents\Karaoke Theme\Unity\ClientTest\obj\Release\ClientTest.exe
+C:\Users\Kristian.Kristian-PC\Documents\Karaoke Theme\Unity\ClientTest\obj\Release\ClientTest.pdb
+C:\Users\Kristian.Kristian-PC\Documents\Karaoke Theme\Unity\ClientTest\obj\Release\ClientTest.Controller.resources
+C:\Users\Kristian.Kristian-PC\Documents\Karaoke Theme\Unity\ClientTest\obj\Release\ClientTest.csproj.GenerateResource.cache
+C:\Users\Kristian.Kristian-PC\Documents\Karaoke Theme\Unity\ClientTest\obj\Release\ClientTest.TeamRegistration.resources

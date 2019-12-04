@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12386, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Keys:
+  - __PanelContainer__rootVisualContainer__27bbafed1a910cf40986d37a0c5cafb5__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__27bbafed1a910cf40986d37a0c5cafb5__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__bff8f1fc5bf79c04a822796f48ed03bb__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__bff8f1fc5bf79c04a822796f48ed03bb__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__55acf60dfac641c49971b530180b5315__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__55acf60dfac641c49971b530180b5315__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  m_Values:
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{"position":{"x":971.0,"y":414.0,"z":0.0},"scale":{"x":0.7628865838050842,"y":0.7628865838050842,"z":1.0}}'
+  - '{"m_Version":101,"m_SelectedElementsArray":["4aea8240-37a0-4bcd-ac9b-6a465b7b7c20"]}'
